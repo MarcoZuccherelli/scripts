@@ -1,0 +1,6 @@
+# .gitignore
+*.log
+*.tmp
+*.bak
+*.swp
+deploy/deploy.sh~
